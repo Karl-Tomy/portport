@@ -65,7 +65,6 @@ access_token:121.4cb8274c935d027f332f8f97cb562035.Y_j30XzjV2R1Ceuayrua21ilD4CIom
 {"id":"061","title":"imageJ-154-win-java8","author":"Windows","file_exists":true,"fsid":220644446856852,"format":"zip","size":50035350},  
 {"id":"062","title":"IntelliJ IDEA 2025.2","author":"Windows","file_exists":true,"fsid":980840108377162,"format":"zip","size":1420633681},  
 {"id":"063","title":"IObit Uninstaller Pro 15.0","author":"Windows","file_exists":true,"fsid":745478415426801,"format":"zip","size":32411597},  
-{"id":"064","title":"LaTeX 2023","author":"Windows","file_exists":true,"fsid":66423342316483,"format":"zip","size":5162214200},  
 {"id":"065","title":"LaTex2023","author":"Windows","file_exists":true,"fsid":954411543819024,"format":"zip","size":5157295572},  
 {"id":"066","title":"LaTex2025","author":"Windows","file_exists":true,"fsid":960053535268038,"format":"zip","size":6448072866},  
 {"id":"067","title":"Maple 2023","author":"Windows","file_exists":true,"fsid":297862877409720,"format":"zip","size":3769710030},  
