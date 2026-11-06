@@ -1590,7 +1590,7 @@ access_token:4c78097289abcbb240664c6fd4a69ca04e273a567ac1a09bfb1a32507bddf7d8f44
 {"id": "1587", "title": "人间正道是沧桑第48集", "author": "video", "file_exists": true, "fsid": 599117438132193, "format": "mp4", "size": 1055382343},  
 {"id": "1588", "title": "人间正道是沧桑第49集", "author": "video", "file_exists": true, "fsid": 277619094505529, "format": "mp4", "size": 1056689674},  
 {"id": "1589", "title": "人间正道是沧桑第50集", "author": "video", "file_exists": true, "fsid": 135970629886802, "format": "mp4", "size": 1056387864},  
-{"id": "1590", "title": "河西走廊第01集 使者", "author": "video", "file_exists": true, "fsid": 512142097046391, "format": "mp4", "size": 1179075163},  
+{"id": "1590", "title": "河西走廊第01集 使者", "author": "video", "file_exists": true, "fsid": 512142097046391, "format": "mp4", "size": 1179075163, "image": "https://bkimg.cdn.bcebos.com/pic/5d6034a85edf8db1cb1361da547fca54564e9258de43"},  
 {"id": "1591", "title": "河西走廊第02集 通道", "author": "video", "file_exists": true, "fsid": 449789052764165, "format": "mp4", "size": 1195959775},  
 {"id": "1592", "title": "河西走廊第03集 驿站", "author": "video", "file_exists": true, "fsid": 961625423733203, "format": "mp4", "size": 1129570851},  
 {"id": "1593", "title": "河西走廊第04集 根脉", "author": "video", "file_exists": true, "fsid": 459261194248088, "format": "mp4", "size": 1171618321},  
