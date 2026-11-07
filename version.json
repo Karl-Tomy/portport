@@ -1,0 +1,9 @@
+{
+  "version": "6.2.1",
+  "min_version": "5.0.0",
+  "url": "https://karl-tomy.github.io/portport/xpx_6.2.1.zip",
+  "sha256": "18b1fab194bc44db4d1bb6812198e9b11ddcf46c4b7ea2374f69ebac9d86611e",
+  "size": 16279925,
+  "notes": "新增视频封面的显示。",
+  "force": true
+}
