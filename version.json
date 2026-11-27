@@ -1,9 +1,0 @@
-{
-  "version": "7.0.0",
-  "min_version": "5.0.0",
-  "url": "https://karl-tomy.github.io/portport/xpx_7.0.0.zip",
-  "sha256": "11010d65b5979bfb6469ca34452bca7ec9219cb2b030a9b8d04512c80d2d0546",
-  "size": 19338647,
-  "notes": "优化了视频流式播放的流畅性。",
-  "force": true
-}
